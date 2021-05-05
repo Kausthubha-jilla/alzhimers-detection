@@ -1,0 +1,20 @@
+Algorithms and Accuracies
+
+Sno	Algorithms and Models				Accuracies	
+1	ANN(Artificial Neural Networks)			81%		
+2	CNN(Convolutional Neural Networks)		82%	
+3	ResNet50					77%
+4	Logistic Regression				96%	
+5	Support Vector Machine(SVM)			83%		
+6	Ensemble(Decision Tree and Bagging Classifier)	71%		
+7	Ensemble(Voting Classifier)			74%		
+8	Ensemble(Adaboost)				73%		
+
+Improved Algorithms and Models:
+
+
+Sno	Algorithms and Models				Accuracies
+						Previous	Final
+1	ANN(Artificial Neural Networks)		77%		81%
+2	CNN(Convolutional Neural Networks)	80%		82%
+3	Logistic Regression			83%		96%	

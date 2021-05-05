@@ -1,0 +1,10 @@
+Sno	Algorithm					Error
+1.	Logistic Regression				+/- 0.017
+2.	Decision Tree					+/- 0.049
+3.	ANN(Artificial Neural Networks)			+/- 0.92 (After 20 epochs)
+4.	CNN(Convolutional Neural Networks)		+/- 0.00612 (Early Stopping)
+5.	ResNet50					+/- 1.008 (Exponential Decay)
+
+
+
+
